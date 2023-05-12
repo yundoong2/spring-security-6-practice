@@ -1,1 +1,1 @@
-# sp-fastcampus-spring-sec
+# sp-spring-sec
